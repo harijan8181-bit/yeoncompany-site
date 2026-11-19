@@ -17,3 +17,11 @@
 | scene_steam.mp4 | https://www.pexels.com/video/20736942/ |
 | scene_snow.mp4 | https://www.pexels.com/video/snow-falling-on-the-ground-in-the-woods-19886712/ |
 | scene_pulse.mp4 | https://www.pexels.com/video/candle-burning-17795658/ |
+| scene_summernight.mp4 | https://www.pexels.com/video/19784310/ |
+| scene_seaside.mp4 | https://www.pexels.com/video/5288655/ |
+| scene_jungle.mp4 | https://www.pexels.com/video/16271810/ |
+| scene_womb.mp4 | https://www.pexels.com/video/40634715/ |
+| scene_forest.mp4 | https://www.pexels.com/video/5402451/ |
+| scene_lake.mp4 | https://www.pexels.com/video/6081600/ |
+| scene_cafe.mp4 | https://www.pexels.com/video/8549595/ |
+| scene_cat.mp4 | https://www.pexels.com/video/19787248/ |
