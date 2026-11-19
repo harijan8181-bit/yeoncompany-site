@@ -11,7 +11,8 @@
 | scene_breeze.mp4 | https://www.pexels.com/video/close-up-of-grasses-8293568/ |
 | scene_rain.mp4 | https://www.pexels.com/video/raindrops-flowing-on-glass-15161525/ |
 | scene_stars.mp4 | https://www.pexels.com/video/the-night-sky-with-stars-and-trees-in-the-background-16544208/ |
-| scene_bubbles.mp4 | https://www.pexels.com/video/video-of-a-bokeh-5571679/ |
+| scene_clouds.mp4 | https://www.pexels.com/video/time-lapse-video-of-the-sky-6772133/ |
+| scene_plane.mp4 | https://www.pexels.com/video/aerial-view-of-clouds-through-airplane-window-34467289/ |
 | scene_steam.mp4 | https://www.pexels.com/video/20736942/ |
 | scene_snow.mp4 | https://www.pexels.com/video/snow-falling-on-the-ground-in-the-woods-19886712/ |
 | scene_pulse.mp4 | https://www.pexels.com/video/candle-burning-17795658/ |
